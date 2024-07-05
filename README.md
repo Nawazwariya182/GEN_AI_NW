@@ -1,0 +1,1 @@
+The index.html, style.css and Script.js will be inside public folder and server.js will be in server folder and you have to install node.js and http-server and open the public folder in terminal and run the command 'http-server' and in server folder run the command 'node server.js'
